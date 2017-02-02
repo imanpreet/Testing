@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "973591534159",
+    "firebase_url": "https://testing-62efb.firebaseio.com",
+    "project_id": "testing-62efb",
+    "storage_bucket": "testing-62efb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973591534159:android:d4540c5eecfea213",
+        "android_client_info": {
+          "package_name": "com.arista.imanpreet.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973591534159-0ckrgl1188hbafk06tq38m3oukfbjl9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHO0wMSN_hbKzzohmLyV9YZxyqGQzjHdY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973591534159-0ckrgl1188hbafk06tq38m3oukfbjl9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
